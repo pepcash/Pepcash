@@ -1,0 +1,9 @@
+Building Pepcash
+
+See doc/readme-qt.rst for instructions on building Pepcash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pepcash.
+
+See doc/build-*.txt for instructions on building pepcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pepcash.
